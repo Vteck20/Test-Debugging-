@@ -4,6 +4,7 @@ class employee:
     #A sample Employee class 
 
     raise_amt = 1.05
+    raise_amt1 = 1.01
 
     def __init__(self, first, last ,pay):
         self.first = first
